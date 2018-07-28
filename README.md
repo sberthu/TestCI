@@ -1,6 +1,7 @@
 food-diary
 ==========
 
+help
 This application integrates an authentication with Github. You first need
  to create an OAuth application on the Github website : https://github.com/settings/applications/new.
  
